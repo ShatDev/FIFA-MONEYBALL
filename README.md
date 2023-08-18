@@ -34,6 +34,7 @@ This script shows how to run the `moneyball_selection.js` and is also designed t
 # How It Works
 The script reads the player data from a `moneyball_output.txt` file, which contains player information in the following format:
 `Player Name - Overall: X, Potential: Y, Age: Z, Value: W`
+
 The user is prompted to enter the number of players they want to select and their budget for player acquisitions.
 
 The script randomly selects players that meet the budget constraint and desired criteria (e.g., potential) and displays the selected players on the console.
@@ -57,7 +58,9 @@ The selected players will be displayed on the console and written to the `select
 The script uses a simplified player selection logic for illustrative purposes.
 
 The input file should be named `moneyball_output.txt` and follow the specified format.
+
 The `selected_players.txt` file will be created or overwritten in the same directory.
+
 Adjust the input file, output file, and player selection logic as needed for your use case.
 
 
