@@ -14,4 +14,4 @@ Run the Script: In the same terminal, run the script using the following command
 Follow Prompts: The script will prompt you to enter various parameters, such as player position, minimum overall rating, minimum potential rating, and maximum price. Enter the required values when prompted.
 
 # Results: 
-The script will analyze the player data and filter players based on the provided criteria. The results will be written to an moneyball_output.txt file in the same directory.
+The script will analyze the player data and filter players based on the provided criteria. The results will be written to an `moneyball_output.txt` file in the same directory.
